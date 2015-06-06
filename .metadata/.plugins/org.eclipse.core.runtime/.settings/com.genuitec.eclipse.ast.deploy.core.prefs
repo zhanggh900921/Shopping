@@ -1,0 +1,14 @@
+#Sun Mar 22 20:06:22 CST 2015
+tomcat6Server.Shopping.isDeployed=true
+tomcat6Server.Shopping.noFileCopy=false
+tomcat6Server.Shopping.isExploded=true
+tomcat6Server.Shopping.shouldBackup=false
+tomcat6Server.Shopping.deployIsOverProject=false
+tomcat6Server.Shopping.type=WebDeployment
+tomcat6Server.Shopping.isUptoDate=true
+tomcat6Server.Shopping.altContextRoot=
+tomcat6Server.Shopping.deploymentPath=D\:\\tomcat6.0.43\\webapps\\Shopping
+eclipse.preferences.version=1
+tomcat6Server.Shopping.shouldOverwrite=false
+tomcat6Server.Shopping.contextRoot=/Shopping
+tomcat6Server.Shopping.IEARProjectName=

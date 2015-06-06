@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+F:\java_learning\Shopping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\708191270.index
+\Shopping\src
+F:\java_learning\Shopping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2173475040.index
+\Shopping\src
+F:\java_learning\Shopping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4151965536.index
+\Shopping\src

@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+F:\java_learning\JavaEE_project\Shopping\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+360640458.index
+2173475040.index
+174072961.index
+1118587421.index
+130857730.index
